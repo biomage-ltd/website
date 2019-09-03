@@ -48,11 +48,11 @@ img {
   max-width: 100%; }
 
 a:hover {
-  color: #635CDB;
+  color: #8f0b10;
   text-decoration: none; }
 
 a:focus {
-  outline: none;
+  color: #8f0b10;
   text-decoration: none; }
 
 ul,

@@ -1,0 +1,23 @@
+  /*--------------------------
+    ABOUT SECTION
+  ----------------------*/
+  
+  #data-analysis {
+    background: linear-gradient(135deg, #ffffff 0%, #eeeeee 30%, #dddddd 100%);
+    opacity: .87;
+    color: #383D3B;
+}
+
+    /*
+  .about-bg-img {
+    position: absolute;
+    right: 0px;
+    content: "";
+    background: url("../img/banner/1.jpg") 50% 50%;
+    width: 40%;
+    height: 100%;
+    max-height: 560px;
+    top: 0px;
+    -webkit-box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.06);
+    box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.06); }
+    */

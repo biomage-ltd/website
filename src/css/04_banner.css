@@ -1,0 +1,48 @@
+  .banner-area .content-padding {
+    padding: 250px 0px 180px; }
+  
+  .content-padding {
+    padding: 180px 0px 80px; }
+  
+  .banner-content {
+    padding-right: 30px; }
+  
+  .banner-content .btn {
+    margin-top: 15px; }
+  
+  .banner-content .banner-title {
+    color: #ffffff;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    line-height: 50px; }
+  
+  .banner-content p {
+    margin: 20px 0px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px; }
+
+    .banner-content.demonstration {
+      text-align: center;
+ 
+    }
+
+    .banner-content.demonstration p {
+          text-align: center;
+    }
+  
+  .banner-content .btn {
+    margin-right: 12px; }
+  
+  .btn-sm {
+    padding: 10px 30px; }
+  
+  .banner {
+    background: linear-gradient(135deg, #5B070A 0%, #8f0b10 30%, #A80D12 100%);
+    opacity: .87; 
+}
+  
+  .section-heading h2 {
+    margin-bottom: 20px;
+    font-weight: 400; }

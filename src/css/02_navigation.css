@@ -8,7 +8,7 @@
 .header-white {
   position: fixed;
   top: 0px;
-  background: #111;
+  background: #383D3B;
   z-index: 9999;
   width: 100%;
   left: 0;
@@ -43,9 +43,6 @@
 {
   color: #ffffff;
 }
-
-.trans-navigation {
-  background: transparent; }
 
 .navbar-brand img {
   max-width: 100%; }

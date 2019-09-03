@@ -1,0 +1,13 @@
+{
+    "attr-bans": ["src", "dynsrc", "lowsrc", "onclick", "onload", "ondblclick"],
+    "attr-no-dup": true,
+    "attr-no-unsafe-char": true,
+    "attr-quote-style": "quoted",
+    "doctype-first": false,
+    "id-class-style": "dash",
+    "indent-style": "spaces",
+    "input-btn-req-value-or-title": true,
+    "indent-width": 4,
+    "tag-name-lowercase": true,
+    "tag-name-match": true
+}

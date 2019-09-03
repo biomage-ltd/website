@@ -1,7 +1,9 @@
-  #footer {
+  footer {
     padding-bottom: 60px;
     position: relative;
-    background: url("../img/bg/2.png");
+    background: linear-gradient(135deg, #202322 0%, #383D3B 30%, #4F5653 100%);
+    opacity: .87; 
+    color: #eeeeee;
     border-top: 1px solid #eee; }
   
   .footer-widget ul li {
@@ -11,19 +13,14 @@
     margin-bottom: 5px; }
   
   .footer-widget h4 {
+    color: #eeeeee;
     margin-bottom: 20px; }
   
   .footer-widget h4 span {
-    color: #635CDB;
+    color: #eeeeee;
     display: block;
     font-size: 60px;
     line-height: 60px; }
-  
-  .footer-blog li img {
-    width: 70px;
-    height: 70px;
-    float: left;
-    margin-right: 20px; }
   
   .footer-blog li h5 {
     margin-bottom: 10px;
@@ -43,14 +40,11 @@
     margin-top: 30px;
     border-top: 1px solid #eee; }
   
-  .footer-text h6 {
-    margin-bottom: 10px; }
-  
   .footer-text p span {
-    color: #000; }
+    color: #eee; }
   
   .footer-text p.mail {
-    color: #635CDB; }
+    color: #eee; }
   
   .bg-main {
     background: #F4F8FB; }
